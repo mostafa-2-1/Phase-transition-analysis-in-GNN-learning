@@ -1,0 +1,28 @@
+{
+  "config": {
+    "node_feats": [
+      0
+    ],
+    "edge_feats": [
+      0
+    ],
+    "cascade": false,
+    "description": "Minimal features (1 node + 1 edge)"
+  },
+  "seed": 456,
+  "separability": {
+    "pos_mean": 4.907956811548127,
+    "neg_mean": 0.14968266102464153,
+    "score_gap": 4.758274150523485,
+    "pos_std": 1.7619866269369908,
+    "neg_std": 1.786872961700218,
+    "auc_roc": 0.9556656695707861,
+    "auc_pr": 0.3610705686706067
+  },
+  "critical_k": 23.762626262626263,
+  "transition_sharpness": 0.06491803278688525,
+  "k_sweep_summary": {
+    "k5_success_rate": 0.06229508196721312,
+    "k5_mean_recall": 0.9229914694698284
+  }
+}

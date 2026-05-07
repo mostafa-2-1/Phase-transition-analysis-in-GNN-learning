@@ -1,0 +1,29 @@
+{
+  "stage1": {
+    "stage": "stage1",
+    "k": 10,
+    "mean_recall": 96.06836036161488,
+    "std_recall": 1.8014354965000243,
+    "min_recall": 92.20779220779221,
+    "max_recall": 100.0,
+    "success_rate": 6.885245901639345,
+    "mean_edges_kept": 1266.344262295082,
+    "mean_sparsity": 27.155562428296058
+  },
+  "stage2": {
+    "stage": "stage2",
+    "k": 5,
+    "mean_recall": 95.87765701744672,
+    "std_recall": 2.1838176032785745,
+    "min_recall": 84.61538461538461,
+    "max_recall": 100.0,
+    "success_rate": 6.229508196721312,
+    "mean_edges_kept": 651.2163934426229,
+    "mean_sparsity": 52.1873419446229
+  },
+  "improvement": {
+    "single_stage_recall": 96.06836036161488,
+    "cascade_recall": 95.87765701744672,
+    "improvement": -0.19070334416815626
+  }
+}
