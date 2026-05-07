@@ -1,1 +1,0 @@
-instance,n_nodes,method,k,graph_type,edges_kept,avg_degree,sparsity,tour_cost,runtime_seconds,success_flag,gap_percent,timestamp
